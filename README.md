@@ -49,3 +49,4 @@ The application is designed to be user-centric. By looping through a specific se
 Building this AI-Based Recommendation System at **CODTECH IT Solutions** was a transformative experience. It taught me how to leverage **Artificial Intelligence** to create intuitive, human-centric software that adapts to individual behavior. Successfully implementing these algorithms has provided me with a strong foundation in **Data Science**, preparing me to tackle advanced challenges in predictive modeling and intelligent system design.
 
 #OUTPUT
+<img width="1022" height="508" alt="Image" src="https://github.com/user-attachments/assets/b07460ab-d265-41da-943c-14a6b713f2c4" />
